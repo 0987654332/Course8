@@ -1,0 +1,153 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: outline;
+}
+.k{
+  width: 600px;
+  position : absolute ;
+  left: 500px;
+}
+.line{
+  position: absolute;
+  top: 200px;
+  left:50px;
+}
+.o{
+  position : absolute;
+  top:300px;
+  left: 50px;
+  border: 1px solid #FA16AE;
+  border-radius: 15px;
+  padding: 20px;
+  width: 200px;
+  font-size: 20px;
+}
+.w{
+  width: 800px;
+  position : absolute ;
+  top: 600px;
+}
+.about{
+  position : absolute;
+  top:1400px;
+  left :80px;
+  font-size: 40px;
+  width:1000px;
+  height:300px;
+  border: 1px solid #7B58E6;
+  color: #7273D9;
+  font-style: bsolute;
+}
+.logo{
+  position : absolute;
+  top:1900px;
+  left: 600px;
+}
+.c{
+  position: absolute;
+  right: 100px;
+  width: 300px;
+  
+  
+}
+.p{
+  position: absolute;
+  left: 60px;
+}
+.i{
+  position: absolute;
+  left: 50px;
+  width: 15pc;
+}
+.reat{
+  position : absolute;
+  top: 2200px;
+}
+.g{
+  position: absolute;
+  left: 730px;
+  color: #DB118E;
+  width: 30px;
+}
+.j{
+  position: absolute;
+  left: 300px;
+  color: #DB118E;
+  width: 50px;
+}
+
+.t{
+  position: absolute;
+  left: 400px;
+  top: 240px;
+  padding: 20px;
+  width: 450px;
+  color: black ;
+  border-radius: 15px ;
+  border:1px solid #DB1180;
+  font-size: 30px;
+}
+.z{
+  position: absolute;
+  top: 2700px;
+}
+
+.a{
+  position: absolute;
+  top: 3500px;
+  left:150px;
+  background-color:#ECC2EB;
+  color: white;
+  font-size: 20px;
+  width: 350px;
+  padding: 15px;
+}
+.l{
+  position: absolute;
+  top: 3500px;
+  left: 600px;
+  background-color: #ECC2EB;
+  width: 400px;
+  padding: 18px;
+}
+.f{
+  position: absolute;
+  top: 3600px;
+  left: 150px;
+  width: 350px;
+  padding: 18px;
+  background-color: #ECC2EB;
+}
+.n{
+  position: absolute;
+  top: 3600px;
+  left:600px;
+  width: 390px;
+  padding: 18px;
+  background-color: #ECC2EB;
+}
+.t:hover{
+  background-color: green;
+  cursor:pointer;
+}
+.o:hover{
+  background-color: #00CB6A;
+  cursor:pointer;
+}
+.flooter{
+  width: 1300px;
+  height: 300px;
+  position: absolute;
+ top: 4000px;
+  background-color: #7CB5DD;
+}
+.s{
+  margin-left: 600px;
+  font-size: 70px;
+  color: white;
+}
+.to{
+  margin-left:700px;
+ 
+}
